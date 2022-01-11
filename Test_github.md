@@ -1,2 +1,2 @@
 # github first test
-# gtseconed Push
+# gitseconed Push
